@@ -3,7 +3,7 @@ NCGAS is hosting a metagenomics workshop, focusing on whole genome sequencing me
 
 **Dates** – April 20th to 22nd, 2019 \
 **Location** – Bloomington, IN \
-**Registration** – https://redcap.uits.iu.edu/surveys/?s=EXAHRFYCML /
+**Registration** – https://redcap.uits.iu.edu/surveys/?s=EXAHRFYCML \
 **Deadline to apply** - February 25th, 2020 
 
 # Workshop Information 
