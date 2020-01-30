@@ -7,7 +7,7 @@ NCGAS is hosting a metagenomics workshop, focusing on whole genome sequencing me
 **Deadline to apply** - February 25th, 2020 
 
 # Workshop Information 
-The workshop will include discussions, lectures and hands-on tutorials, to cover topics important to constructing and analyzing metagenomic datasets. Material covers availability of HPC resources, how to access these resources, while learning how to assemble and annotate metagenomics datasets. The goal of this workshop is to provide a comprehensive preparation for metagenomic analysis and other bioinformatic tasks.
+The workshop will include discussions, lectures and hands-on tutorials, to cover topics important to constructing and analyzing shotgun sequenced metagenomic datasets. Material covers availability of HPC resources, how to access these resources, while learning how to assemble and annotate metagenomics datasets. The goal of this workshop is to provide a comprehensive preparation for metagenomic analysis and other bioinformatic tasks.
 This workshop will include the basic steps in metagenomic analysis: to assemble and annotate datasets to identify taxa and function. While the material will make heavy use of XSEDE and IU machines, the material is transferable to any cluster.
 Participation in this workshop is by invitation—you must register to be considered. Participation is limited by facility space.
 
