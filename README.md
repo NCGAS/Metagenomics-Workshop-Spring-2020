@@ -77,9 +77,9 @@ Coming up!
 
 ## Testimonials from the last workshop 
 <p align="center"> 
-  "My favorite part of the workshop was getting the chance to discuss various aspects of bioinformatics with NCGAS personnel and other attendees. This was very useful in trouble shooting problems I've had with my own research projects." Workshop participant </p>
+  "My favorite part of the workshop was getting the chance to discuss various aspects of bioinformatics with NCGAS personnel and other attendees. This was very useful in trouble shooting problems I've had with my own research projects." - Workshop participant </p>
   
-<p align="center"> "Getting a broad wealth of information regarding available resources and tools" Workshop participant </p>
+<p align="center"> "Getting a broad wealth of information regarding available resources and tools" - Workshop participant </p>
 
 # Contact us 
 If you have any questions, email us at help@ncgas.org.  \
