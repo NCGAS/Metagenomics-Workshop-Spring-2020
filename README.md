@@ -11,9 +11,6 @@ The workshop will include discussions, lectures and hands-on tutorials, to cover
 While the material will make heavy use of XSEDE and IU machines, the material is transferable to any cluster.
 Participation in this workshop is by invitation—you must register to be considered. Participation is limited by facility space.
 
-<p align="center"> "My favorite part of the workshop was getting the chance to discuss various aspects of bioinformatics with NCGAS personnel and other attendees. This was very useful in trouble shooting problems I've had with my own research projects." Workshop participant
-"Getting a broad wealth of information regarding available resources and tools" Workshop participant</p>
-
 # Prerequisites
 This workshop is geared for beginners, but basic Unix commands will not be covered. As such, participants must have basic Linux functionality (sign in, moving around file system, etc.), but expertise is not required. It would be helpful if participants had some exposure to using a cluster for compute jobs and an idea of the end goals for their data.
 
@@ -78,6 +75,11 @@ Participant data will not be analyzed during the workshop (that takes more time 
 # Presentations 
 Coming up!
 
+# Testimonials from the last workshop 
+<p align="center"> 
+  *"My favorite part of the workshop was getting the chance to discuss various aspects of bioinformatics with NCGAS personnel and other attendees. This was very useful in trouble shooting problems I've had with my own research projects." Workshop participant* </p>
+  
+<p align="center"> *"Getting a broad wealth of information regarding available resources and tools" Workshop participant* </p>
 # Contact us 
 If you have any questions, email us at help@ncgas.org.  \
 Website https://ncgas.org/
