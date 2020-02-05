@@ -35,8 +35,43 @@ Participants should leave with the following knowledge:
 Participant data will not be analyzed during the workshop (that takes more time than we have!), but the entire pipeline will be used by participants with smaller scale demo data. We can also schedule online meetings after the workshop to discuss your data. 
 
 # Schedule 
-Coming up! 
-
+|**Day 1**			 |**Activity**							                                |**Lead**|
+|---------------|:----------------------------------------------------------|-----:|
+|8:30am 		    |Registration							                                  |All   |
+|9:00am		      |Introduction to NCGAS and staff			                      |Tom   | 
+|9:20am		      |Introduction to Clusters and Other Resources		            |Sheri |
+|10:45am		    |BREAK                                                      |      |
+|11:00am		    |Job submission						                                |Carrie|
+|12:30pm		    |Data Center Tour/Lunch                                     |      |
+|2:00pm		      |Overview of metagenomics data				                        |Tom|
+|3:00pm		      |BREAK                                                      |      |
+|3:25pm		      |Overview of metagenomic analysis		                        |Bhavya|
+|4:30pm        |Break                                                       |    |
+|4:45pm		      |Publicly Available Resources					                      |All   |
+|5:30pm         |We will have reservations at a local tavern, Nick's.  We will be joining you to chat/relax, but you will be responsible for paying for your meal and drinks.                                        |      |
+|               |                                                           |      |
+|**Day 2**		  |**Activity**		                                            |**Lead**|
+|               |                                                           |      |
+|9:00am         |Quality control of data                 |Carrie   |
+|10:15am        |BREAK                                                      |      |
+|10:30am        |Hands on -Metagenome assembly and assembly stats                 |Bhavya|
+|12:30am		    |Lunch	                  			                            |      |
+|1:00pm         |Hands on- Metagenome assembled genomes	and quality assessment |Bhavya|
+|2:30pm		      |BREAK                                                      |      |
+|2:45pm		    |Taxa and Functional annotation                             | Bhavya|
+|4:00pm		    |BREAK                                                      |      |
+|4:15pm		    |Data management and Movement                               |Bhavya|
+|6:00pm         |We will meet at a favorite local bar, the Upstairs.  They do not serve food, but there is plenty of food nearby that you can bring with you!  Again, we will be joining you to chat/relax, but you will be responsible for paying for your meal and drinks.                                                                               |      |
+|               |                                                           |      |
+|**Day 3**		  |**Activity**		                                            |**Lead**|
+|               |                                                           |      |
+|9:00am         |Demo:Downstream analysis                                   |Bhavya|
+|10:45am        |BREAK                                                 |      |
+|11:00am       |Visualizing metagenomics data                           |Bhavya |
+|12:30pm        |BREAK                                                   |       |
+|12:45pm        |Final Remarks                                              |Tom   |
+|1:00pm        |Lunch: On your own, there are a couple restaurants nearby you can check out. A few of them are listed in the Welcome document given during registration                                          |      |
+|               |                                                           |      |
 # Presentations 
 Coming up!
 
