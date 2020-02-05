@@ -1,5 +1,5 @@
 # Metagenomics-Workshop-Spring-2020
-NCGAS is hosting a metagenomics workshop, focusing on metagenome analysis between April 20th to 22nd at Indiana University, Bloominton. 
+NCGAS is hosting a second iteration of the metagenomics workshop, focusing on metagenome analysis between April 20th to 22nd at Indiana University, Bloominton. 
 
 **Dates** – April 20th to 22nd, 2020 \
 **Location** – Bloomington, IN \
@@ -10,6 +10,9 @@ NCGAS is hosting a metagenomics workshop, focusing on metagenome analysis betwee
 The workshop will include discussions, lectures and hands-on tutorials, to cover topics important to constructing and analyzing shotgun sequenced metagenomic datasets. Material covers availability of HPC resources, how to access these resources, while learning how to assemble and annotate metagenomics datasets. The goal of this workshop is to provide a comprehensive preparation for metagenomic analysis and other bioinformatic tasks.
 While the material will make heavy use of XSEDE and IU machines, the material is transferable to any cluster.
 Participation in this workshop is by invitation—you must register to be considered. Participation is limited by facility space.
+
+<p align="center"> "My favorite part of the workshop was getting the chance to discuss various aspects of bioinformatics with NCGAS personnel and other attendees. This was very useful in trouble shooting problems I've had with my own research projects." Workshop participant
+"Getting a broad wealth of information regarding available resources and tools" Workshop participant</p>
 
 # Prerequisites
 This workshop is geared for beginners, but basic Unix commands will not be covered. As such, participants must have basic Linux functionality (sign in, moving around file system, etc.), but expertise is not required. It would be helpful if participants had some exposure to using a cluster for compute jobs and an idea of the end goals for their data.
