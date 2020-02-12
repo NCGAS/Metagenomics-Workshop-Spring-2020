@@ -65,9 +65,8 @@ Participant data will not be analyzed during the workshop (that takes more time 
 |               |                                                           |      |
 |**Day 3**		  |**Activity**		                                            |**Lead**|
 |               |                                                           |      |
-|9:00am         |Demo:Downstream analysis                                   |Bhavya|
-|10:45am        |BREAK                                                 |      |
-|11:00am       |Visualizing metagenomics data                           |Bhavya |
+|9:00am         |Title to be decided                                    |Yuzhen|
+|10:00am        |Demo: Downstream analysis and visualization tools         | Bhavya  |
 |12:30pm        |BREAK                                                   |       |
 |12:45pm        |Final Remarks                                              |Tom   |
 |1:00pm        |Lunch: On your own, there are a couple restaurants nearby you can check out. A few of them are listed in the Welcome document given during registration                                          |      |
