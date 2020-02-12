@@ -34,7 +34,7 @@ Participants should leave with the following knowledge:
 
 Participant data will not be analyzed during the workshop (that takes more time than we have!), but the entire pipeline will be used by participants with smaller scale demo data. We can also schedule online meetings after the workshop to discuss your data. 
 
-# Schedule 
+# Tentative Schedule 
 |**Day 1**			 |**Activity**							                                |**Lead**|
 |---------------|:----------------------------------------------------------|-----:|
 |8:30am 		    |Registration							                                  |All   |
@@ -45,7 +45,7 @@ Participant data will not be analyzed during the workshop (that takes more time 
 |12:30pm		    |Data Center Tour/Lunch                                     |      |
 |2:00pm		      |Overview of metagenomics data				                        |Tom|
 |3:00pm		      |BREAK                                                      |      |
-|3:25pm		      |Overview of metagenomic analysis		                        |Bhavya|
+|3:25pm		      |Overview of metagenomic analysis 	                        |Bhavya|
 |4:30pm        |Break                                                       |    |
 |4:45pm		      |Publicly Available Resources					                      |All   |
 |5:30pm         |We will have reservations at a local tavern, Nick's.  We will be joining you to chat/relax, but you will be responsible for paying for your meal and drinks.                                        |      |
