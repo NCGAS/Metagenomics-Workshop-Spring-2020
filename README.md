@@ -43,11 +43,11 @@ Participant data will not be analyzed during the workshop (that takes more time 
 |10:45am		    |BREAK                                                      |      |
 |11:00am		    |Job submission						                                |Carrie|
 |12:30pm		    |Data Center Tour/Lunch                                     |      |
-|2:00pm		      |Overview of metagenomics data				                        |Tom|
-|3:00pm		      |Overview of topics being covered	                        |Bhavya|
-|3:45pm         |XSEDE resources and support available                      |Phil |
-|5:00pm        |Break                                                       |    |
-|5:15pm		      |Publicly Available Resources					                      |All   |
+|2:00pm         |XSEDE resources and support available                      |Phil |
+|3:00pm		      |Overview of metagenomics data				                        |Tom|
+|4:00pm		      |Overview of topics being covered	                        |Bhavya|
+|4:45pm        |Break                                                       |    |
+|5:00pm		      |Publicly Available Resources					                      |All   |
 |6:00pm         |We will have reservations at a local tavern, Nick's.  We will be joining you to chat/relax, but you will be responsible for paying for your meal and drinks.                                        |      |
 |               |                                                           |      |
 |**Day 2**		  |**Activity**		                                            |**Lead**|
