@@ -30,6 +30,7 @@ Participants should leave with the following knowledge:
 - How to run metagenomics assembly
 - Ability to reconstruct metagenome assembled genomes and check their quality 
 - Taxa and functional annoatation of metagenomes 
+- NCBI tools for metagenomic analayis and availablity of additional datasets
 - How to get help for both genomic and computational questions 
 
 Participant data will not be analyzed during the workshop (that takes more time than we have!), but the entire pipeline will be used by participants with smaller scale demo data. We can also schedule online meetings after the workshop to discuss your data. 
@@ -67,9 +68,9 @@ Participant data will not be analyzed during the workshop (that takes more time 
 |               |                                                           |      |
 |9:00am         |Title to be decided                                    |Yuzhen|
 |10:00am        |Demo: Downstream analysis and visualization tools         | Bhavya  |
-|12:30pm        |BREAK                                                   |       |
-|12:45pm        |Final Remarks                                              |Tom   |
-|1:00pm        |Lunch: On your own, there are a couple restaurants nearby you can check out. A few of them are listed in the Welcome document given during registration                                          |      |
+|12:30pm        |Lunch: On your own,                                         |      |
+|1:30 pm        |Webinar- NCBI tools available for metagenome analysis- with an emphasis on SRA, eUtils, efetct and MagicBLAST. |NCBI staff|
+|5:00 pm        |Final Remarks                                              |Tom   |
 |               |                                                           |      |
 # Presentations 
 Coming up!
