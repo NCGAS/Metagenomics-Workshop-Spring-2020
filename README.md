@@ -66,7 +66,7 @@ Participant data will not be analyzed during the workshop (that takes more time 
 |               |                                                           |      |
 |**Day 3**		  |**Activity**		                                            |**Lead**|
 |               |                                                           |      |
-|9:00am         |Title to be decided                                    |Yuzhen|
+|9:00am         |Demo: omics analysis                                    |Yuzhen|
 |10:00am        |Demo: Downstream analysis and visualization tools         | Bhavya  |
 |12:30pm        |Lunch: On your own,                                         |      |
 |1:30 pm        |Webinar- NCBI tools available for metagenome analysis- with an emphasis on SRA, eUtils, efetct and MagicBLAST. |NCBI staff|
