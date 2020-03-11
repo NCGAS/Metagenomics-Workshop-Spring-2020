@@ -1,0 +1,29 @@
+There are three scripts here for three different taxa program
+1) FOCUS https://github.com/metageni/FOCUS
+2) KRAKEN2 https://ccb.jhu.edu/software/kraken2/
+3) CENTRIFUGE https://ccb.jhu.edu/software/centrifuge/manual.shtml
+
+All three of them are k-mer based taxa identification tools so they are really quick. You can run all three and look for converging results or run just one of them of your choice. 
+To run these scripts 
+
+FOCUS 
+Run the command, 
+	qsub focus.sh
+
+In this script, first the forward and reverse reads are paired using the program PEAR. This is done becuase FOCUS doesnt pair the forward and reverse reads together prior to taxa identification, so it will generate abundance results for both the forward and reverse read in separate columns.
+After pairing the reads, the assembled reads from PEAR output are provided as input to FOCUS. The output generared will be saved to a file called "focus_output"
+
+KRAKEN
+Run the command 
+	qsub kraken.sh 
+
+The script runs kraken2 on the samples, to generate a results for each sample. Each individual kraken taxa reports are then combined using an python script that generates one table for all the samples.
+The results are saved to a file called "kraken-report-final.csv"
+
+CENTRIFUGE 
+Run the command 
+	qsub centrifuge.sh 
+
+The script runs the centrifuge command on all the samples, to generate a result for each sample. 
+I didn't get an opoortunity to work on writing a script to combine these results to one file yet! Hopefully, coming soon or one of you can contribute :D. 
+

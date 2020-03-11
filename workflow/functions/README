@@ -1,0 +1,13 @@
+There are three scripts here for two different functional annotation programs we will be using 
+1) Prokka - github.com/tseemann/prokka
+2) Fraggenescan  - omics.informatics.indiana.edu/FragGeneScan/
+
+To run these scripts 
+
+Prokka 
+Run the command, 
+	qsub prokka.sh
+
+FragGeneScan
+Run the command, 
+	qsub fraggenescan.sh

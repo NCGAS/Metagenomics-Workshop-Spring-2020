@@ -1,0 +1,29 @@
+Binning
+The scripts in the directory bin or cluster contigs together if they have the same genome signatures. 
+
+GENERATE BAM FILES 
+Run the command 
+	qsub 1-bamfile.sh
+
+The script aligns each sample reads against the contig, to generate a bam and bai files with the information about the alignment. These files are the input for the binning tools we will be running next 
+
+METABAT2
+Run the command 
+	qsub 2-metabat2.sh
+
+This script runs the program metabat2 to group all the contigs that have similar 4-mer profile and contig coverage together. The bins generated are saved to a directory called "metabat_bins"
+
+CONCOCT
+Run the command 
+	qsub 2-concoct.sh
+
+This script similar to the metabat program groups contigs that have similar 4-mer profile and contigs coverage toegther.However, they do use different algorithms so the results will be different. 
+The results are saved to a directory called "concoct_bins"
+
+DAS Tool
+This tool looks at the bins generated in protein level to calculate redundancy and completeness of single copy genes present in the bins. Uses these values to calculate a score, and all the bins above a certain score is then saved to a new directory
+	qsub 3-dastool.sh
+
+CHECKM 
+This tool calculates completeness, contamination and strain heterogenity in the bins generated. The script below calculated these values for all the three set of bins - concoct-generated and  metabat2-generated bins
+	qsub 3-checkm.sh

@@ -1,0 +1,30 @@
+This directory contains the scripts to 
+1) assemble the reads using two assemblers- MEGAHIT and SPAdes 
+2) Deduplicate the assembled contigs to remove the exact duplicates using bbtools, dedupe.sh script
+3) All the generated contigs from MEGAHIT, SPAdes and dedupe.sh are all run through QUAST for assembly statistics 
+
+MEGAHIT
+Run the script, 
+	qsub 1-megahit.sh 
+
+This script assembles the coassembled reads (left.fq and right.fq in the reads directory), and it also continues to assembled each individual sample. 
+
+SPADES
+Run the script,
+	qsub 1-spades.sh
+
+This script assembles the coassembled reads and the reads from each individual sample. 
+
+DEDUPLICATE the contigs from all the assemblies (both megahit and spades, and co-assemblies + individuall assemblies)
+Run the command,
+	qsub 2-dedupe.sh
+
+QUAST 
+Run assembly statistics for all the assemblies using QUAST
+Run the command, 
+	qsub 3-quast.sh 
+
+SAVE THE FINAL OUTPUT 
+Run the below command from the assembly directory 
+
+	mv contigs/dedupe.sh final_contigs.fa
