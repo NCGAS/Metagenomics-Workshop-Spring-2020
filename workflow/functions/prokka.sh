@@ -19,5 +19,4 @@ do
 done
 
 cd assembly/contigs
-mv *_prokka functions/prokka_output/.
-
+mv *_prokka ../../functions/prokka_output/.
