@@ -14,7 +14,7 @@ reads=`ls reads | grep "1.fastq" | sed 's/_1.fastq//g'`
 
 for f in $reads
 do 
-	kraken2 --reload --db $KRAKEN_DB --paired reads/"$f"_1.fastq reads/"$f"_2.fastq --threads 1 --use-names --report taxa/"$f"_kraken_report --output taxa/"$f"_kraken.out
+	kraken2 --reload --db $KRAKEN_DB --paired reads/"$f"_1.fastq reads/"$f"_2.fastq --threads 1  --report-zero-counts --use-names --report taxa/"$f"_kraken_report --output taxa/"$f"_kraken.out
 done
 
 #moving the report to a new directory to generate one output 
