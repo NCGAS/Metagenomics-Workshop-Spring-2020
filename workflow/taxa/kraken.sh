@@ -23,8 +23,8 @@ mv taxa/*_kraken_report taxa/kraken_report/.
 
 module unload python 
 module load python/3.6.8 
-export PATH=PWDHERE/taxa:$PATH
+export PATH=PWDHERE/scripts:$PATH
 
-python taxa/kraken-multiple-taxa.py -d taxa/kraken_report/ -r F -c 2 -o taxa/kraken-report-final
+python scripts/kraken-multiple-taxa.py -d taxa/kraken_report/ -r F -c 2 -o taxa/kraken-report-final
 
 sed -e "s/\[//g;s/\]//g;s/'//g;s|\t|,|g" taxa/kraken-report-final  >taxa/kraken_report-final.csv
