@@ -116,8 +116,8 @@ Another note to make here, notice how the script don't run for the left.fq and r
 Enter the function directory, run any of the scripts to generate a functional profile for the metagenome samples. In this instance the input files are the assembled contigs NOT the reads. This is because, the input read are much smaller in length, therefore can be fragmenting the whole protein information. 
 
         cd functions\
-
 	qsub prokka.sh
+	
 OUTPUT is saved to functions/prokka_output
 
 	qsub fragenescan.sh
