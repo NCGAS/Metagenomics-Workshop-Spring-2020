@@ -26,5 +26,7 @@ module load python/3.6.8
 export PATH=PWDHERE/scripts:$PATH
 
 python scripts/kraken-multiple-taxa.py -d taxa/kraken_report/ -r F -c 2 -o taxa/kraken-report-final
+python scripts/kraken-multiple-taxa.py -d taxa/kraken_report/ -r F -c 1 -o taxa/kraken-report-final-abund
 
 sed -e "s/\[//g;s/\]//g;s/'//g;s|\t|,|g" taxa/kraken-report-final  >taxa/kraken_report-final.csv
+sed -e "s/\[//g;s/\]//g;s/'//g;s|\t|,|g" taxa/kraken-report-final-abund  >taxa/kraken_report-final-abund.csv
