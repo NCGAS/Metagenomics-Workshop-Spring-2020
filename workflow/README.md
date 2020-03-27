@@ -62,7 +62,7 @@ Take a look at the quast_table.tsv, pick the assembler that likely produced the 
 Generally since dedupe.sh would have more contigs since it contains the final deduplicated set of contigs from the assemblies. 
 Do make note that using this result for estimating taxa/functional abundance can highly bias the results. 
 
-	mv assembly/contigs/dedupe.sh assembly/final_contigs.fa
+	`mv assembly/contigs/dedupe.sh assembly/final_contigs.fa`
 
 **BINNING AND BIN QUALITY REPORTS** 
 - Lets start grouping similar sequences together now. 
